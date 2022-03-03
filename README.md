@@ -1,6 +1,6 @@
 # Coding Class
 
-![dfgs](https://user-images.githubusercontent.com/79866006/156547307-5d924f0f-6c54-419f-9611-0719f1703e13.jpg | width=100)
+![dfgs](https://user-images.githubusercontent.com/79866006/156547307-5d924f0f-6c54-419f-9611-0719f1703e13.jpg)
 
 Everyone’s talking about coding and programming, but where do you start? 
 So me and my Team <a href="https://github.com/Team-TYP"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> decided to make this class.
