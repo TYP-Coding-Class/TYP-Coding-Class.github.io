@@ -195,7 +195,10 @@ Develop a skill that will define your future. Join our community of students tod
 # Creators
 
 
- [<img src="https://github.com/The-Young-Programmer.png?size=115" width=115><br>| <sub>@The-Young-Programmer</sub>](https://github.com/The-Young-Programmer)|[<img src="https://github.com/Team-TYP.png?size=250" width=115><br>| <sub>@Team TYP 👨‍💻</sub>](https://github.com/Team-TYP) |
+ [<img src="https://github.com/The-Young-Programmer.png?size=115" width=115><br>| <sub>@The-Young-Programmer</sub>](https://github.com/The-Young-Programmer)|
+ 
+ 
+ [<img src="https://github.com/Team-TYP.png?size=250" width=115><br>| <sub>@Team TYP 👨‍💻</sub>](https://github.com/Team-TYP) |
 
 
 
