@@ -8,7 +8,7 @@
 Everyone’s talking about coding and programming, but where do you start? 
 
 
-So me and my Team <a href="https://github.com/Team-TYP"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> decided to make this class.
+So me and my Team > <a href="https://github.com/Team-TYP"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> decided to make this class.
 
 If you are new to programming, we recommend you start at the beginning and earn these certifications in order.
 
@@ -181,7 +181,21 @@ Develop a skill that will define your future. Join our community of students tod
 
 #### 
 
+## ✏ How To Contribute
 
+- You don't need to make a fork just edit.
+- You can also make a pull Request
+
+
+| :---: |:---: | :---: |
+
+**Important:** Every month the Contributors list will be updated by observing their contributions.
+
+
+# Creators
+
+| :---: | :---: | 
+| [<img src="https://github.com/The-Young-Programmer.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/The-Young-Programmer) |  [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) |
 
 
 
