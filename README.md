@@ -8,7 +8,7 @@
 Everyone’s talking about coding and programming, but where do you start? 
 
 
-So me and my Team  <a href="https://github.com/Team-TYP"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> decided to make this class.
+So me and my Team on <a href="https://github.com/Team-TYP"/> Github </a> decided to make this class.
 
 If you are new to programming, we recommend you start at the beginning and earn these certifications in order.
 
@@ -103,7 +103,7 @@ This Table below shows the full summary off the difference betweeen Coding and P
 ## What you will learn
 
 
-Here are just a few things you will be avle to do in this Career Path.
+Here are just a few things you will be able to do in this Career Path.
 
 - UNDERSTAND PROGRAMMING
 
@@ -159,6 +159,8 @@ In this Responsive Web Design, you'll learn the languages that developers use to
 
 **- Android App Development**
 
+**- IOS App Development**
+
 **- Game Development**
 
 **- Cyber Security**
@@ -195,10 +197,10 @@ Develop a skill that will define your future. Join our community of students tod
 # Creators
 
 
- [<img src="https://github.com/The-Young-Programmer.png?size=115" width=115><br>| <sub>@The-Young-Programmer</sub>](https://github.com/The-Young-Programmer)|
+ [<img src="https://github.com/The-Young-Programmer.png?size=100" width=100><br>| <sub>@The-Young-Programmer</sub>](https://github.com/The-Young-Programmer)|
  
  
- [<img src="https://github.com/Team-TYP.png?size=250" width=115><br>| <sub>@Team TYP 👨‍💻</sub>](https://github.com/Team-TYP) |
+ [<img src="https://github.com/Team-TYP.png?size=100" width=100><br>| <sub>@Team TYP 👨‍💻</sub>](https://github.com/Team-TYP) |
 
 
 
